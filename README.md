@@ -1,2 +1,2 @@
 # Flutter-template
-Projet Flutter template généré par ligne de commande
+Projet Flutter template à générer par ligne de commande
